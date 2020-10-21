@@ -35,7 +35,7 @@
                 <i class="ion-gear-a"></i>&nbsp;Settings
               </nuxt-link>
             </li>
-            <!-- <li class="nav-item">
+            <li class="nav-item">
               <nuxt-link class="nav-link" to="/profile/123">
                 <img
                   class="user-pic"
@@ -43,7 +43,7 @@
                 >
                 {{ user.username }}
               </nuxt-link>
-            </li> -->
+            </li>
           </template>
 
           <template v-else>
