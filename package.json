@@ -15,6 +15,7 @@
     "axios": "^0.19.2",
     "cookieparser": "^0.1.0",
     "dayjs": "^1.8.28",
+    "hexo-deployer-git": "^2.1.0",
     "js-cookie": "^2.2.1",
     "markdown-it": "^11.0.0",
     "nuxt": "^2.12.2"
